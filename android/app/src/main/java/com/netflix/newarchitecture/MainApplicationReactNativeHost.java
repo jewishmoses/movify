@@ -1,4 +1,4 @@
-package com.netflix.newarchitecture;
+package com.movify.newarchitecture;
 
 import android.app.Application;
 import androidx.annotation.NonNull;
@@ -19,9 +19,9 @@ import com.facebook.react.fabric.CoreComponentsRegistry;
 import com.facebook.react.fabric.FabricJSIModuleProvider;
 import com.facebook.react.fabric.ReactNativeConfig;
 import com.facebook.react.uimanager.ViewManagerRegistry;
-import com.netflix.BuildConfig;
-import com.netflix.newarchitecture.components.MainComponentsRegistry;
-import com.netflix.newarchitecture.modules.MainApplicationTurboModuleManagerDelegate;
+import com.movify.BuildConfig;
+import com.movify.newarchitecture.components.MainComponentsRegistry;
+import com.movify.newarchitecture.modules.MainApplicationTurboModuleManagerDelegate;
 import java.util.ArrayList;
 import java.util.List;
 
