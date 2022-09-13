@@ -6,8 +6,9 @@ A simple cross platform app that shows information about movies in Hebrew built 
 
 ## Screenshots
 
-![Movify home screenshot](/src/resources/images/screenshot-home.png "Movify home screenshot")
-![Movify movie screenshot](/src/resources/images/screenshot-movie.png "Movify movie screenshot")
+Home screen       |  Movie screen
+:-------------------------:|:-------------------------:
+![Movify home screenshot](/src/resources/images/screenshot-home.png "Movify home screenshot") |  ![Movify movie screenshot](/src/resources/images/screenshot-movie.png "Movify movie screenshot")
 
 ## Credits
 
