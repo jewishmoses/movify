@@ -1,7 +1,5 @@
 # Movify
 
-![Movify cover](/src/resources/images/cover.png "Movify cover")
-
 A simple cross platform app that shows information about movies in Hebrew built with React Native designed with TailwindCSS & TMDB API.
 
 ## Screenshots
